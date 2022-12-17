@@ -101,7 +101,8 @@ public class Seller implements Serializable{
 	public String toString() {
 		return "Seller [id=" + id + ", name=" + name + ", email=" + email + ", date=" + date + ", baseSalary="
 				+ baseSalary + ", department=" + department + "]";
-	};
+	}
+
 	
 	
 }
